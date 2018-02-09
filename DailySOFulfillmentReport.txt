@@ -1,0 +1,9 @@
+The sales department asked me to create a report showing the Sales order number, Customer purchase order number, Salesperson, Customer bill-to name, 
+Total price of the sales order, Date the order was fulfilled, Shipping carrier, and Tracking ID.  They wanted the report to be restricted to fulfilled
+orders within the last day. 
+
+The query in DailySOFulfillmentReport.sql is what I used to get the information for the report. I used this query in a BASH script that dumps the
+results to a csv then format them into an Excel spreadsheet and email it to their group at 6:30AM each weekday morning. I also include the same report,
+but for the last 7 days in case there is a holiday. 
+
+This is for Fishbowl Inventory 2017.x using MySQL
