@@ -290,7 +290,7 @@ $groupflag = 0;
 //We have looped through the entire array so display the grand total values
 echo '<tr style="background-color: #FCFF8F;font-weight: bold">
     <td></td>
-    <td >SLG</td>
+    <td >COMPANYNAME</td>
     <td style="text-align: center; font-weight: bold">合计 Total</td>
     <td></td>
     <td style="text-align: center; font-weight: bold">'.$openqtytotal.'</td>
