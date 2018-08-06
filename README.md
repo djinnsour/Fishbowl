@@ -12,3 +12,7 @@ Our sales department wanted a report of all Sales Orders that were fulfilled eve
 InventorySummary 
 
 This is a series of MySQL queries and other files used to product an inventory summary of changes during a period of time.  It queries Fishbowl Inventory and produces a web based report.
+
+Inventory Count Report
+
+This is a quick report for generating an Inventory Count.
